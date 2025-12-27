@@ -23,12 +23,12 @@ const HeroSection = () => {
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in" style={{ animationDelay: '0.1s' }}>
             Hi, I'm{" "}
-            <span className="text-gradient">John Doe</span>
+            <span className="text-gradient">Mohamed Shaaban</span>
           </h1>
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-muted-foreground mb-4 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Full-Stack Developer
+            Frontend Developer
           </p>
 
           {/* Description */}

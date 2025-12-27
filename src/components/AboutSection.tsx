@@ -45,13 +45,13 @@ const AboutSection = () => {
                   <span className="text-foreground">developer</span> = {"{"}
                   <br />
                   <span className="ml-4 text-muted-foreground">name:</span>{" "}
-                  <span className="text-green-400">"John Doe"</span>,
+                  <span className="text-green-400">"Mohamed Shaaban"</span>,
                   <br />
                   <span className="ml-4 text-muted-foreground">role:</span>{" "}
-                  <span className="text-green-400">"Full-Stack Dev"</span>,
+                  <span className="text-green-400">"Frontend Dev"</span>,
                   <br />
                   <span className="ml-4 text-muted-foreground">loves:</span>{" "}
-                  <span className="text-green-400">["React", "TypeScript", "Coffee"]</span>
+                  <span className="text-green-400">["React", "TypeScript", "CSS"]</span>
                   <br />
                   {"}"};
                 </code>
