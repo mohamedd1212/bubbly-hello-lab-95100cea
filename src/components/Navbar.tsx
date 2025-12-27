@@ -22,7 +22,7 @@ const Navbar = () => {
             <Code2 className="h-6 w-6 text-primary transition-transform group-hover:rotate-12" />
             <span className="font-mono font-semibold text-lg">
               <span className="text-primary">&lt;</span>
-              Dev
+              Mohamed Shaaban
               <span className="text-primary">/&gt;</span>
             </span>
           </a>

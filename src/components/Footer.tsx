@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-start gap-2">
             <span className="font-mono font-semibold text-lg">
               <span className="text-primary">&lt;</span>
-              Dev
+              Mohamed Shaaban
               <span className="text-primary">/&gt;</span>
             </span>
             <p className="text-muted-foreground text-sm">
