@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: '/bubbly-hello-lab-95100cea/',
   server: {
     host: "::",
     port: 8080,
