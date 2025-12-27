@@ -29,7 +29,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <p className="font-medium">hello@example.com</p>
+                    <p className="font-medium">mohamedshabann1212@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -41,7 +41,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Location</p>
-                    <p className="font-medium">San Francisco, CA</p>
+                    <p className="font-medium">6 October, Egypt</p>
                   </div>
                 </div>
               </div>
